@@ -1,2 +1,2 @@
 # test
-Dice system for Magicalogica
+Dice system for Magicalogia
